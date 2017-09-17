@@ -1,0 +1,24 @@
+( o| O)[^ ]*?@[^ ]*(.com|.org)
+22
+Line 5389: To: outlook.team@enron.com 
+Line 10713: To: outlook.team@enron.com 
+Line 11587: Outlook.2000@enron.com 
+Line 30122: blank e-mail to on-yild@zdemail.zdlists.com 
+Line 35982: Sender: owner-strawbale@crest.org 
+Line 36031: From: owner-strawbale@crest.org 
+Line 36036: X-From: owner-strawbale@crest.org 
+Line 36055: Sender: owner-strawbale@crest.org 
+Line 38056: To: outlook.team@enron.com 
+Line 39073: Outlook.2000@enron.com 
+Line 52637: From: outlook-migration-team@enron.com 
+Line 52653: From: outlook-migration-team@enron.com 
+Line 59228: From: online.service@schwab.com 
+Line 64780: mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+Line 68977: From: open2win.0ll1.net@mailman.enron.com 
+Line 73066: From: oportunity@cells4free.com 
+Line 81779: blank e-mail to on-yild@zdemail.zdlists.com 
+Line 85063: From: owner-strawbale@crest.org 
+Line 85068: X-From: owner-strawbale@crest.org 
+Line 85087: Sender: owner-strawbale@crest.org 
+Line 90620: Sender: owner-strawbale@crest.org 
+Line 92996: Outlook.2000@enron.com
