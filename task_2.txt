@@ -1,24 +1,36 @@
-( o| O)[^ ]*?@[^ ]*(.com|.org)
-22
-Line 5389: To: outlook.team@enron.com 
-Line 10713: To: outlook.team@enron.com 
-Line 11587: Outlook.2000@enron.com 
-Line 30122: blank e-mail to on-yild@zdemail.zdlists.com 
-Line 35982: Sender: owner-strawbale@crest.org 
-Line 36031: From: owner-strawbale@crest.org 
-Line 36036: X-From: owner-strawbale@crest.org 
-Line 36055: Sender: owner-strawbale@crest.org 
-Line 38056: To: outlook.team@enron.com 
-Line 39073: Outlook.2000@enron.com 
-Line 52637: From: outlook-migration-team@enron.com 
-Line 52653: From: outlook-migration-team@enron.com 
-Line 59228: From: online.service@schwab.com 
-Line 64780: mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
-Line 68977: From: open2win.0ll1.net@mailman.enron.com 
-Line 73066: From: oportunity@cells4free.com 
-Line 81779: blank e-mail to on-yild@zdemail.zdlists.com 
-Line 85063: From: owner-strawbale@crest.org 
-Line 85068: X-From: owner-strawbale@crest.org 
-Line 85087: Sender: owner-strawbale@crest.org 
-Line 90620: Sender: owner-strawbale@crest.org 
-Line 92996: Outlook.2000@enron.com
+[^.]\<o[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}
+34
+To: outlook.team@enron.com
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+in the subject line, or send a blank e-mail to
+blank e-mail to on-yild@zdemail.zdlists.com
+Sender: owner-strawbale@crest.org
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+From: outlook-migration-team@enron.com
+From: outlook-migration-team@enron.com
+you prefer not to receive emails of this nature please send an email to rem=
+From: online.service@schwab.com
+X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com, 
+From: open2win.0ll1.net@mailman.enron.com
+X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+From: oportunity@cells4free.com
+X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+in the subject line, or send a blank e-mail to
+blank e-mail to on-yild@zdemail.zdlists.com
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+O'Rourke'"" <orourke.john@epenergy.com>, ""'Kawamoto, Wayne'"" 
+Sender: owner-strawbale@crest.org
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+ Outlook.2000@enron.com
